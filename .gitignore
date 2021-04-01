@@ -1,2 +1,5 @@
-downloaded*
+s3/downloaded*
 .ipynb_checkpoints
+kafka-plaintext/messages
+kafka-sasl-plain/messages
+
